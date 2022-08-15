@@ -19,21 +19,4 @@
 
 - v2ray订阅链接：`https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt`
 
-## 📧 更新推送
 
-- 由于留邮箱会导致收到垃圾信息，删除此功能了！
-
-## 📘 客户端使用方法
-
-- 📱 [Android](https://www.ermao.net/skill/clashforandroid/)
-- 🖥 [Windows](https://www.ermao.net/uncategorized/clash-for-windows/)
-
-## 💸 付费订阅
-
-[>> 便宜机场评测](https://www.ermao.net/resource/vpn/)
-
-我搜罗的一些比较便宜的机场（月消费10块以下），觉得免费订阅不好使的朋友们可以在这里面找找。
-
-## ⭐ 感谢支持
-
-[![操，图挂了……](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/mail/project_info.svg)](https://github.com/ermaozi/get_subscribe)
